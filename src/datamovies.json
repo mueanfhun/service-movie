@@ -1,0 +1,2034 @@
+ 
+       [
+                {
+                "id":1,
+                "name": "Men In Black : International",
+                "image": "MIB.jpg",
+                "description": "The Men in Black have always protected the Earth from the scum of the universe. In this new adventure, they tackle their biggest threat to date: a mole in the Men in Black organization.",
+                "startDate":"2019-06-12T00:00:00Z",
+                "endDate":"2019-07-18T00:00:00Z",
+                "genre": "Action",
+                "Rate": "G",
+                "timemovies": 115,
+                "showingTime":[
+                {
+                "date": "2016-07-16T00:00:00Z",
+                "sound": "ENG",
+                "theater":[
+                    {
+                        "id": 1,
+                        "time": "16:50",
+                        "normalSeat": {
+                            "available": 30,
+                            "price":300
+                    },
+                        "honeymoonSeat": {
+                            "available": 10,
+                            "price": 450
+                        },
+                        "pairSeat": {
+                            "available": 5,
+                            "price": 600
+                        }
+                    },
+                    {
+                        "id": 2,
+                        "time": "21:50",
+                        "normalSeat": {
+                            "available": 30,
+                            "price":300
+                    },
+                        "honeymoonSeat": {
+                            "available": 10,
+                            "price": 450
+                        },
+                        "pairSeat": {
+                            "available": 5,
+                            "price": 600
+                        }
+                    }
+                ]
+            },
+            {
+                "date": "2016-07-17T00:00:00Z",
+                "sound": "ENG",
+                "theater":[
+                    {
+                        "id": 1,
+                        "time": "20:50",
+                        "normalSeat": {
+                            "available": 30,
+                            "price":300
+                    },
+                        "honeymoonSeat": {
+                            "available": 10,
+                            "price": 450
+                        },
+                        "pairSeat": {
+                            "available": 5,
+                            "price": 600
+                        }
+                    }
+                ]
+            },
+            {
+                "date": "2016-07-18T00:00:00Z",
+                "sound": "TH",
+                "theater":[
+                    {
+                        "id": 1,
+                        "time": "21:30",
+                        "normalSeat": {
+                            "available": 30,
+                            "price":300
+                    },
+                        "honeymoonSeat": {
+                            "available": 10,
+                            "price": 450
+                        },
+                        "pairSeat": {
+                            "available": 5,
+                            "price": 600
+                        }
+                    }
+                ]
+            }
+           
+                ]
+                    },
+                    {
+                        "id":2,
+                        "name": "Rocketman",
+                        "image": "RM.jpg",
+                        "description": "The story of Elton John's life, from his years as a prodigy at the Royal Academy of Music through his influential and enduring musical partnership with Bernie Taupin.",
+                        "startDate":"2019-06-20T00:00:00Z",
+                        "endDate":"2019-07-16T00:00:00Z",
+                        "genre": "Biography",
+                        "Rate": "18",
+                        "timemovies": 125,
+                        "showingTime":[
+                        {
+                        "date": "2016-07-16T00:00:00Z",
+                        "sound": "ENG",
+                        "theater":[
+                            {
+                                "id": 1,
+                                "time": "15:50",
+                                "normalSeat": {
+                                    "available": 30,
+                                    "price":300
+                            },
+                                "honeymoonSeat": {
+                                    "available": 10,
+                                    "price": 450
+                                },
+                                "pairSeat": {
+                                    "available": 5,
+                                    "price": 600
+                                }
+                            }
+                        ]
+                    }
+                   
+                        ]
+                            },
+                            {
+                                "id":3,
+                                "name": "Toy Story 4",
+                                "image": "TS4.jpg",
+                                "description": "Woody and Buzz embark on a quest to find Woody's romantic interest, Bo Peep.",
+                                "startDate":"2019-06-20T00:00:00Z",
+                                "endDate":"2019-07-18T00:00:00Z",
+                                "genre": "Biography",
+                                "Rate": "18",
+                                "timemovies": 125,
+                                "showingTime":[
+                                {
+                                "date": "2016-07-16T00:00:00Z",
+                                "sound": "ENG",
+                                "theater":[
+                                    {
+                                        "id": 1,
+                                        "time": "19:30",
+                                        "normalSeat": {
+                                            "available": 30,
+                                            "price":300
+                                    },
+                                        "honeymoonSeat": {
+                                            "available": 10,
+                                            "price": 450
+                                        },
+                                        "pairSeat": {
+                                            "available": 5,
+                                            "price": 600
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "date": "2016-07-17T00:00:00Z",
+                                "sound": "ENG",
+                                "theater":[
+                                    {
+                                        "id": 1,
+                                        "time": "21:10",
+                                        "normalSeat": {
+                                            "available": 30,
+                                            "price":300
+                                    },
+                                        "honeymoonSeat": {
+                                            "available": 10,
+                                            "price": 450
+                                        },
+                                        "pairSeat": {
+                                            "available": 5,
+                                            "price": 600
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "date": "2016-07-18T00:00:00Z",
+                                "sound": "ENG",
+                                "theater":[
+                                    {
+                                        "id": 1,
+                                        "time": "19:00",
+                                        "normalSeat": {
+                                            "available": 30,
+                                            "price":300
+                                    },
+                                        "honeymoonSeat": {
+                                            "available": 10,
+                                            "price": 450
+                                        },
+                                        "pairSeat": {
+                                            "available": 5,
+                                            "price": 600
+                                        }
+                                    }
+                                ]
+                            }
+                           
+                                ]
+                                    },
+                                    {
+                                        "id":4,
+                                        "name": "Annabelle Comes Home",
+                                        "image": "Anna.jpg",
+                                        "description": "Determined to keep Annabelle from wreaking more havoc, demonologists Ed and Lorraine Warren bring the possessed doll to the locked artifacts room in their home, placing her safely behind sacred glass and enlisting a priest's holy blessing. But an unholy night of horror awaits as Annabelle awakens the evil spirits in the room, who all set their sights on a new target-the Warrens' ten-year-old daughter, Judy, and her friends.",
+                                        "startDate":"2019-06-26T00:00:00Z",
+                                        "endDate":"2019-07-18T00:00:00Z",
+                                        "genre": "Horror",
+                                        "Rate": "15",
+                                        "timemovies": 110,
+                                        "showingTime":[
+                                        {
+                                        "date": "2016-07-16T00:00:00Z",
+                                        "sound": "ENG",
+                                        "theater":[
+                                            {
+                                                "id": 1,
+                                                "time": "19:45",
+                                                "normalSeat": {
+                                                    "available": 30,
+                                                    "price":300
+                                            },
+                                                "honeymoonSeat": {
+                                                    "available": 10,
+                                                    "price": 450
+                                                },
+                                                "pairSeat": {
+                                                    "available": 5,
+                                                    "price": 600
+                                                }
+                                            },
+                                            {
+                                                "id": 2,
+                                                "time": "22.15",
+                                                "normalSeat": {
+                                                    "available": 30,
+                                                    "price":300
+                                            },
+                                                "honeymoonSeat": {
+                                                    "available": 10,
+                                                    "price": 450
+                                                },
+                                                "pairSeat": {
+                                                    "available": 5,
+                                                    "price": 600
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "date": "2016-07-17T00:00:00Z",
+                                        "sound": "ENG",
+                                        "theater":[
+                                            {
+                                                "id": 1,
+                                                "time": "21:45",
+                                                "normalSeat": {
+                                                    "available": 30,
+                                                    "price":300
+                                            },
+                                                "honeymoonSeat": {
+                                                    "available": 10,
+                                                    "price": 450
+                                                },
+                                                "pairSeat": {
+                                                    "available": 5,
+                                                    "price": 600
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "date": "2016-07-18T00:00:00Z",
+                                        "sound": "ENG",
+                                        "theater":[
+                                            {
+                                                "id": 1,
+                                                "time": "20:50",
+                                                "normalSeat": {
+                                                    "available": 30,
+                                                    "price":300
+                                            },
+                                                "honeymoonSeat": {
+                                                    "available": 10,
+                                                    "price": 450
+                                                },
+                                                "pairSeat": {
+                                                    "available": 5,
+                                                    "price": 600
+                                                }
+                                            }
+                                        ]
+                                    }
+                                   
+                                        ]
+                                            },
+                                            {
+                                                "id":5,
+                                                "name": "Spider - Man : Far From Home",
+                                                "image": "spider.jpg",
+                                                "description": "Following the events of Avengers: Endgame, Spider-Man must step up to take on new threats in a world that has changed forever. ",
+                                                "startDate":"2019-07-03T00:00:00Z",
+                                                "endDate":"2019-08-03T00:00:00Z",
+                                                "genre": " Action",
+                                                "Rate": "G",
+                                                "timemovies": 130,
+                                                "showingTime":[
+                                                {
+                                                "date": "2016-07-16T00:00:00Z",
+                                                "sound": "ENG",
+                                                "theater":[
+                                                    {
+                                                        "id": 1,
+                                                        "time": "19:10",
+                                                        "normalSeat": {
+                                                            "available": 30,
+                                                            "price":300
+                                                    },
+                                                        "honeymoonSeat": {
+                                                            "available": 10,
+                                                            "price": 450
+                                                        },
+                                                        "pairSeat": {
+                                                            "available": 5,
+                                                            "price": 600
+                                                        }
+                                                    },
+                                                    {
+                                                        "id": 2,
+                                                        "time": "20:20",
+                                                        "normalSeat": {
+                                                            "available": 30,
+                                                            "price":300
+                                                    },
+                                                        "honeymoonSeat": {
+                                                            "available": 10,
+                                                            "price": 450
+                                                        },
+                                                        "pairSeat": {
+                                                            "available": 5,
+                                                            "price": 600
+                                                        }
+                                                    },
+                                                    {
+                                                        "id": 3,
+                                                        "time": "22:00",
+                                                        "normalSeat": {
+                                                            "available": 30,
+                                                            "price":300
+                                                    },
+                                                        "honeymoonSeat": {
+                                                            "available": 10,
+                                                            "price": 450
+                                                        },
+                                                        "pairSeat": {
+                                                            "available": 5,
+                                                            "price": 600
+                                                        }
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "date": "2016-07-17T00:00:00Z",
+                                                "sound": "ENG",
+                                                "theater":[
+                                                    {
+                                                        "id": 1,
+                                                        "time": "19:30",
+                                                        "normalSeat": {
+                                                            "available": 30,
+                                                            "price":300
+                                                    },
+                                                        "honeymoonSeat": {
+                                                            "available": 10,
+                                                            "price": 450
+                                                        },
+                                                        "pairSeat": {
+                                                            "available": 5,
+                                                            "price": 600
+                                                        }
+                                                    },
+                                                    {
+                                                        "id": 2,
+                                                        "time": "20:10",
+                                                        "normalSeat": {
+                                                            "available": 30,
+                                                            "price":300
+                                                    },
+                                                        "honeymoonSeat": {
+                                                            "available": 10,
+                                                            "price": 450
+                                                        },
+                                                        "pairSeat": {
+                                                            "available": 5,
+                                                            "price": 600
+                                                        }
+                                                    },
+                                                    {
+                                                        "id": 3,
+                                                        "time": "22:20",
+                                                        "normalSeat": {
+                                                            "available": 30,
+                                                            "price":300
+                                                    },
+                                                        "honeymoonSeat": {
+                                                            "available": 10,
+                                                            "price": 450
+                                                        },
+                                                        "pairSeat": {
+                                                            "available": 5,
+                                                            "price": 600
+                                                        }
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "date": "2016-07-18T00:00:00Z",
+                                                "sound": "ENG",
+                                                "theater":[
+                                                    {
+                                                        "id": 1,
+                                                        "time": "18:30",
+                                                        "normalSeat": {
+                                                            "available": 30,
+                                                            "price":300
+                                                    },
+                                                        "honeymoonSeat": {
+                                                            "available": 10,
+                                                            "price": 450
+                                                        },
+                                                        "pairSeat": {
+                                                            "available": 5,
+                                                            "price": 600
+                                                        }
+                                                    },
+                                                    {
+                                                        "id": 2,
+                                                        "time": "19:35",
+                                                        "normalSeat": {
+                                                            "available": 30,
+                                                            "price":300
+                                                    },
+                                                        "honeymoonSeat": {
+                                                            "available": 10,
+                                                            "price": 450
+                                                        },
+                                                        "pairSeat": {
+                                                            "available": 5,
+                                                            "price": 600
+                                                        }
+                                                    },
+                                                    {
+                                                        "id": 3,
+                                                        "time": "21:20",
+                                                        "normalSeat": {
+                                                            "available": 30,
+                                                            "price":300
+                                                    },
+                                                        "honeymoonSeat": {
+                                                            "available": 10,
+                                                            "price": 450
+                                                        },
+                                                        "pairSeat": {
+                                                            "available": 5,
+                                                            "price": 600
+                                                        }
+                                                    },
+                                                    {
+                                                        "id": 4,
+                                                        "time": "22:20",
+                                                        "normalSeat": {
+                                                            "available": 30,
+                                                            "price":300
+                                                    },
+                                                        "honeymoonSeat": {
+                                                            "available": 10,
+                                                            "price": 450
+                                                        },
+                                                        "pairSeat": {
+                                                            "available": 5,
+                                                            "price": 600
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                           
+                                                ]
+                                                    },
+                                                    {
+                                                        "id":6,
+                                                        "name": "Every Day A Good Day",
+                                                        "image": "EDA.jpg",
+                                                        "description": "Noriko is a university student. By her mother's recommendation, Noriko begins attending a Japanese tea ceremony near her house with her cousin Michiko. There, Noriko learns from Teacher Takeda. Noriko now has the Japanese tea ceremony in her life and it's there for her during moments when she is sad or happy.",
+                                                        "startDate":"2019-07-11T00:00:00Z",
+                                                        "endDate":"2019-07-30T00:00:00Z",
+                                                        "genre": " Drama",
+                                                        "Rate": "G",
+                                                        "timemovies": 100,
+                                                        "showingTime":[
+                                                        {
+                                                        "date": "2016-07-16T00:00:00Z",
+                                                        "sound": "ENG",
+                                                        "theater":[
+                                                            {
+                                                                "id": 1,
+                                                                "time": "19:00",
+                                                                "normalSeat": {
+                                                                    "available": 30,
+                                                                    "price":300
+                                                            },
+                                                                "honeymoonSeat": {
+                                                                    "available": 10,
+                                                                    "price": 450
+                                                                },
+                                                                "pairSeat": {
+                                                                    "available": 5,
+                                                                    "price": 600
+                                                                }
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "date": "2016-07-17T00:00:00Z",
+                                                        "sound": "ENG",
+                                                        "theater":[
+                                                            {
+                                                                "id": 1,
+                                                                "time": "22:10",
+                                                                "normalSeat": {
+                                                                    "available": 30,
+                                                                    "price":300
+                                                            },
+                                                                "honeymoonSeat": {
+                                                                    "available": 10,
+                                                                    "price": 450
+                                                                },
+                                                                "pairSeat": {
+                                                                    "available": 5,
+                                                                    "price": 600
+                                                                }
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "date": "2016-07-18T00:00:00Z",
+                                                        "sound": "ENG",
+                                                        "theater":[
+                                                            {
+                                                                "id": 1,
+                                                                "time": "21:50",
+                                                                "normalSeat": {
+                                                                    "available": 30,
+                                                                    "price":300
+                                                            },
+                                                                "honeymoonSeat": {
+                                                                    "available": 10,
+                                                                    "price": 450
+                                                                },
+                                                                "pairSeat": {
+                                                                    "available": 5,
+                                                                    "price": 600
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                   
+                                                        ]
+                                                            },
+                                                            {
+                                                                "id":7,
+                                                                "name": "Ma",
+                                                                "image": "Ma.jpg",
+                                                                "description": "In this new psychological horror-thriller from Tate Taylor and Blumhouse, a lonely woman befriends a group of teenagers and decides to let them party at her house. Just when the kids think their luck couldn't get any better, things start happening that make them question the intention of their host.",
+                                                                "startDate":"2019-07-11T00:00:00Z",
+                                                                "endDate":"2019-07-30T00:00:00Z",
+                                                                "genre": " Horror",
+                                                                "Rate": "18",
+                                                                "timemovies": 100,
+                                                                "showingTime":[
+                                                                {
+                                                                "date": "2016-07-16T00:00:00Z",
+                                                                "sound": "ENG",
+                                                                "theater":[
+                                                                    {
+                                                                        "id": 1,
+                                                                        "time": "19:50",
+                                                                        "normalSeat": {
+                                                                            "available": 30,
+                                                                            "price":300
+                                                                    },
+                                                                        "honeymoonSeat": {
+                                                                            "available": 10,
+                                                                            "price": 450
+                                                                        },
+                                                                        "pairSeat": {
+                                                                            "available": 5,
+                                                                            "price": 600
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "id": 2,
+                                                                        "time": "22:10",
+                                                                        "normalSeat": {
+                                                                            "available": 30,
+                                                                            "price":300
+                                                                    },
+                                                                        "honeymoonSeat": {
+                                                                            "available": 10,
+                                                                            "price": 450
+                                                                        },
+                                                                        "pairSeat": {
+                                                                            "available": 5,
+                                                                            "price": 600
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "date": "2016-07-17T00:00:00Z",
+                                                                "sound": "ENG",
+                                                                "theater":[
+                                                                    {
+                                                                        "id": 1,
+                                                                        "time": "20:10",
+                                                                        "normalSeat": {
+                                                                            "available": 30,
+                                                                            "price":300
+                                                                    },
+                                                                        "honeymoonSeat": {
+                                                                            "available": 10,
+                                                                            "price": 450
+                                                                        },
+                                                                        "pairSeat": {
+                                                                            "available": 5,
+                                                                            "price": 600
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "id": 2,
+                                                                        "time": "22:30",
+                                                                        "normalSeat": {
+                                                                            "available": 30,
+                                                                            "price":300
+                                                                    },
+                                                                        "honeymoonSeat": {
+                                                                            "available": 10,
+                                                                            "price": 450
+                                                                        },
+                                                                        "pairSeat": {
+                                                                            "available": 5,
+                                                                            "price": 600
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "date": "2016-07-18T00:00:00Z",
+                                                                "sound": "ENG",
+                                                                "theater":[
+                                                                    {
+                                                                        "id": 1,
+                                                                        "time": "19:30",
+                                                                        "normalSeat": {
+                                                                            "available": 30,
+                                                                            "price":300
+                                                                    },
+                                                                        "honeymoonSeat": {
+                                                                            "available": 10,
+                                                                            "price": 450
+                                                                        },
+                                                                        "pairSeat": {
+                                                                            "available": 5,
+                                                                            "price": 600
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "id": 2,
+                                                                        "time": "21:45",
+                                                                        "normalSeat": {
+                                                                            "available": 30,
+                                                                            "price":300
+                                                                    },
+                                                                        "honeymoonSeat": {
+                                                                            "available": 10,
+                                                                            "price": 450
+                                                                        },
+                                                                        "pairSeat": {
+                                                                            "available": 5,
+                                                                            "price": 600
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "date": "2016-07-19T00:00:00Z",
+                                                                "sound": "ENG",
+                                                                "theater":[
+                                                                    {
+                                                                        "id": 1,
+                                                                        "time": "19:40",
+                                                                        "normalSeat": {
+                                                                            "available": 30,
+                                                                            "price":300
+                                                                    },
+                                                                        "honeymoonSeat": {
+                                                                            "available": 10,
+                                                                            "price": 450
+                                                                        },
+                                                                        "pairSeat": {
+                                                                            "available": 5,
+                                                                            "price": 600
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "id": 2,
+                                                                        "time": "21:40",
+                                                                        "normalSeat": {
+                                                                            "available": 30,
+                                                                            "price":300
+                                                                    },
+                                                                        "honeymoonSeat": {
+                                                                            "available": 10,
+                                                                            "price": 450
+                                                                        },
+                                                                        "pairSeat": {
+                                                                            "available": 5,
+                                                                            "price": 600
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "date": "2016-07-20T00:00:00Z",
+                                                                "sound": "ENG",
+                                                                "theater":[
+                                                                    {
+                                                                        "id": 1,
+                                                                        "time": "19:20",
+                                                                        "normalSeat": {
+                                                                            "available": 30,
+                                                                            "price":300
+                                                                    },
+                                                                        "honeymoonSeat": {
+                                                                            "available": 10,
+                                                                            "price": 450
+                                                                        },
+                                                                        "pairSeat": {
+                                                                            "available": 5,
+                                                                            "price": 600
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "id": 2,
+                                                                        "time": "21:45",
+                                                                        "normalSeat": {
+                                                                            "available": 30,
+                                                                            "price":300
+                                                                    },
+                                                                        "honeymoonSeat": {
+                                                                            "available": 10,
+                                                                            "price": 450
+                                                                        },
+                                                                        "pairSeat": {
+                                                                            "available": 5,
+                                                                            "price": 600
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "date": "2016-07-21T00:00:00Z",
+                                                                "sound": "ENG",
+                                                                "theater":[
+                                                                    {
+                                                                        "id": 1,
+                                                                        "time": "21:00",
+                                                                        "normalSeat": {
+                                                                            "available": 30,
+                                                                            "price":300
+                                                                    },
+                                                                        "honeymoonSeat": {
+                                                                            "available": 10,
+                                                                            "price": 450
+                                                                        },
+                                                                        "pairSeat": {
+                                                                            "available": 5,
+                                                                            "price": 600
+                                                                        }
+                                                                    }
+                                                                   
+                                                                ]
+                                                            }
+                                                           
+                                                                ]
+                                                                    },
+                                                                    {
+                                                                        "id":8,
+                                                                        "name": "Anna",
+                                                                        "image": "A.jpg",
+                                                                        "description": "Beneath Anna Poliatova's striking beauty lies a secret that will unleash her indelible strength and skill to become one of the world's most feared government assassins.",
+                                                                        "startDate":"2019-07-11T00:00:00Z",
+                                                                        "endDate":"2019-07-30T00:00:00Z",
+                                                                        "genre": " Action",
+                                                                        "Rate": "18",
+                                                                        "timemovies": 120,
+                                                                        "showingTime":[
+                                                                        {
+                                                                        "date": "2016-07-16T00:00:00Z",
+                                                                        "sound": "ENG",
+                                                                        "theater":[
+                                                                            {
+                                                                                "id": 1,
+                                                                                "time": "19:40",
+                                                                                "normalSeat": {
+                                                                                    "available": 30,
+                                                                                    "price":300
+                                                                            },
+                                                                                "honeymoonSeat": {
+                                                                                    "available": 10,
+                                                                                    "price": 450
+                                                                                },
+                                                                                "pairSeat": {
+                                                                                    "available": 5,
+                                                                                    "price": 600
+                                                                                }
+                                                                            },
+                                                                            {
+                                                                                "id": 2,
+                                                                                "time": "22:40",
+                                                                                "normalSeat": {
+                                                                                    "available": 30,
+                                                                                    "price":300
+                                                                            },
+                                                                                "honeymoonSeat": {
+                                                                                    "available": 10,
+                                                                                    "price": 450
+                                                                                },
+                                                                                "pairSeat": {
+                                                                                    "available": 5,
+                                                                                    "price": 600
+                                                                                }
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "date": "2016-07-17T00:00:00Z",
+                                                                        "sound": "ENG",
+                                                                        "theater":[
+                                                                            {
+                                                                                "id": 1,
+                                                                                "time": "20:40",
+                                                                                "normalSeat": {
+                                                                                    "available": 30,
+                                                                                    "price":300
+                                                                            },
+                                                                                "honeymoonSeat": {
+                                                                                    "available": 10,
+                                                                                    "price": 450
+                                                                                },
+                                                                                "pairSeat": {
+                                                                                    "available": 5,
+                                                                                    "price": 600
+                                                                                }
+                                                                            }
+                                                                           
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "date": "2016-07-18T00:00:00Z",
+                                                                        "sound": "TH",
+                                                                        "theater":[
+                                                                            {
+                                                                                "id": 1,
+                                                                                "time": "19:30",
+                                                                                "normalSeat": {
+                                                                                    "available": 30,
+                                                                                    "price":300
+                                                                            },
+                                                                                "honeymoonSeat": {
+                                                                                    "available": 10,
+                                                                                    "price": 450
+                                                                                },
+                                                                                "pairSeat": {
+                                                                                    "available": 5,
+                                                                                    "price": 600
+                                                                                }
+                                                                            },
+                                                                            {
+                                                                                "id": 2,
+                                                                                "time": "22:10",
+                                                                                "normalSeat": {
+                                                                                    "available": 30,
+                                                                                    "price":300
+                                                                            },
+                                                                                "honeymoonSeat": {
+                                                                                    "available": 10,
+                                                                                    "price": 450
+                                                                                },
+                                                                                "pairSeat": {
+                                                                                    "available": 5,
+                                                                                    "price": 600
+                                                                                }
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "date": "2016-07-19T00:00:00Z",
+                                                                        "sound": "ENG",
+                                                                        "theater":[
+                                                                            {
+                                                                                "id": 1,
+                                                                                "time": "20:40",
+                                                                                "normalSeat": {
+                                                                                    "available": 30,
+                                                                                    "price":300
+                                                                            },
+                                                                                "honeymoonSeat": {
+                                                                                    "available": 10,
+                                                                                    "price": 450
+                                                                                },
+                                                                                "pairSeat": {
+                                                                                    "available": 5,
+                                                                                    "price": 600
+                                                                                }
+                                                                            }
+                                                                        
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "date": "2016-07-20T00:00:00Z",
+                                                                        "sound": "TH",
+                                                                        "theater":[
+                                                                            {
+                                                                                "id": 1,
+                                                                                "time": "19:40",
+                                                                                "normalSeat": {
+                                                                                    "available": 30,
+                                                                                    "price":300
+                                                                            },
+                                                                                "honeymoonSeat": {
+                                                                                    "available": 10,
+                                                                                    "price": 450
+                                                                                },
+                                                                                "pairSeat": {
+                                                                                    "available": 5,
+                                                                                    "price": 600
+                                                                                }
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "date": "2016-07-21T00:00:00Z",
+                                                                        "sound": "ENG",
+                                                                        "theater":[
+                                                                            {
+                                                                                "id": 1,
+                                                                                "time": "21:00",
+                                                                                "normalSeat": {
+                                                                                    "available": 30,
+                                                                                    "price":300
+                                                                            },
+                                                                                "honeymoonSeat": {
+                                                                                    "available": 10,
+                                                                                    "price": 450
+                                                                                },
+                                                                                "pairSeat": {
+                                                                                    "available": 5,
+                                                                                    "price": 600
+                                                                                }
+                                                                            }
+                                                                           
+                                                                        ]
+                                                                    }
+                                                                   
+                                                                        ]
+                                                                            },
+                                                                            {
+                                                                                "id":9,
+                                                                                "name": "Breaking Habits",
+                                                                                "image": "BH.jpg",
+                                                                                "description": "A group of activists led by a self-proclaimed nun seek to legitimize their marijuana farm in Merced County, California.",
+                                                                                "startDate":"2019-07-11T00:00:00Z",
+                                                                                "endDate":"2019-07-30T00:00:00Z",
+                                                                                "genre": " Documentary",
+                                                                                "Rate": "18",
+                                                                                "timemovies": 90,
+                                                                                "showingTime":[
+                                                                                {
+                                                                                "date": "2016-07-16T00:00:00Z",
+                                                                                "sound": "ENG",
+                                                                                "theater":[
+                                                                                    {
+                                                                                        "id": 1,
+                                                                                        "time": "20:00",
+                                                                                        "normalSeat": {
+                                                                                            "available": 30,
+                                                                                            "price":300
+                                                                                    },
+                                                                                        "honeymoonSeat": {
+                                                                                            "available": 10,
+                                                                                            "price": 450
+                                                                                        },
+                                                                                        "pairSeat": {
+                                                                                            "available": 5,
+                                                                                            "price": 600
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "date": "2016-07-17T00:00:00Z",
+                                                                                "sound": "ENG",
+                                                                                "theater":[
+                                                                                    {
+                                                                                        "id": 1,
+                                                                                        "time": "18:30",
+                                                                                        "normalSeat": {
+                                                                                            "available": 30,
+                                                                                            "price":300
+                                                                                    },
+                                                                                        "honeymoonSeat": {
+                                                                                            "available": 10,
+                                                                                            "price": 450
+                                                                                        },
+                                                                                        "pairSeat": {
+                                                                                            "available": 5,
+                                                                                            "price": 600
+                                                                                        }
+                                                                                    }
+                                                                                   
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "date": "2016-07-18T00:00:00Z",
+                                                                                "sound": "TH",
+                                                                                "theater":[
+                                                                                    {
+                                                                                        "id": 1,
+                                                                                        "time": "19:30",
+                                                                                        "normalSeat": {
+                                                                                            "available": 30,
+                                                                                            "price":300
+                                                                                    },
+                                                                                        "honeymoonSeat": {
+                                                                                            "available": 10,
+                                                                                            "price": 450
+                                                                                        },
+                                                                                        "pairSeat": {
+                                                                                            "available": 5,
+                                                                                            "price": 600
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "date": "2016-07-19T00:00:00Z",
+                                                                                "sound": "ENG",
+                                                                                "theater":[
+                                                                                    {
+                                                                                        "id": 1,
+                                                                                        "time": "22:00",
+                                                                                        "normalSeat": {
+                                                                                            "available": 30,
+                                                                                            "price":300
+                                                                                    },
+                                                                                        "honeymoonSeat": {
+                                                                                            "available": 10,
+                                                                                            "price": 450
+                                                                                        },
+                                                                                        "pairSeat": {
+                                                                                            "available": 5,
+                                                                                            "price": 600
+                                                                                        }
+                                                                                    }
+                                                                                
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "date": "2016-07-20T00:00:00Z",
+                                                                                "sound": "TH",
+                                                                                "theater":[
+                                                                                    {
+                                                                                        "id": 1,
+                                                                                        "time": "19:40",
+                                                                                        "normalSeat": {
+                                                                                            "available": 30,
+                                                                                            "price":300
+                                                                                    },
+                                                                                        "honeymoonSeat": {
+                                                                                            "available": 10,
+                                                                                            "price": 450
+                                                                                        },
+                                                                                        "pairSeat": {
+                                                                                            "available": 5,
+                                                                                            "price": 600
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "date": "2016-07-21T00:00:00Z",
+                                                                                "sound": "ENG",
+                                                                                "theater":[
+                                                                                    {
+                                                                                        "id": 1,
+                                                                                        "time": "21:30",
+                                                                                        "normalSeat": {
+                                                                                            "available": 30,
+                                                                                            "price":300
+                                                                                    },
+                                                                                        "honeymoonSeat": {
+                                                                                            "available": 10,
+                                                                                            "price": 450
+                                                                                        },
+                                                                                        "pairSeat": {
+                                                                                            "available": 5,
+                                                                                            "price": 600
+                                                                                        }
+                                                                                    }
+                                                                                   
+                                                                                ]
+                                                                            }
+                                                                           
+                                                                                ]
+                                                                                    },
+                                                                                    {
+                                                                                        "id":10,
+                                                                                        "name": "Little Buddha",
+                                                                                        "image": "LB.jpg",
+                                                                                        "description": "After the death of Lama Dorje, Tibetan Buddhist monks find three children - one American and two Nepalese - who may be the rebirth of their great teacher.",
+                                                                                        "startDate":"2019-07-16T00:00:00Z",
+                                                                                        "endDate":"2019-08-02T00:00:00Z",
+                                                                                        "genre": " Drama",
+                                                                                        "Rate": "G",
+                                                                                        "timemovies": 140,
+                                                                                        "showingTime":[
+                                                                                        {
+                                                                                        "date": "2016-07-16T00:00:00Z",
+                                                                                        "sound": "ENG",
+                                                                                        "theater":[
+                                                                                            {
+                                                                                                "id": 1,
+                                                                                                "time": "20:00",
+                                                                                                "normalSeat": {
+                                                                                                    "available": 30,
+                                                                                                    "price":300
+                                                                                            },
+                                                                                                "honeymoonSeat": {
+                                                                                                    "available": 10,
+                                                                                                    "price": 450
+                                                                                                },
+                                                                                                "pairSeat": {
+                                                                                                    "available": 5,
+                                                                                                    "price": 600
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "date": "2016-07-17T00:00:00Z",
+                                                                                        "sound": "ENG",
+                                                                                        "theater":[
+                                                                                            {
+                                                                                                "id": 1,
+                                                                                                "time": "18:30",
+                                                                                                "normalSeat": {
+                                                                                                    "available": 30,
+                                                                                                    "price":300
+                                                                                            },
+                                                                                                "honeymoonSeat": {
+                                                                                                    "available": 10,
+                                                                                                    "price": 450
+                                                                                                },
+                                                                                                "pairSeat": {
+                                                                                                    "available": 5,
+                                                                                                    "price": 600
+                                                                                                }
+                                                                                            }
+                                                                                           
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "date": "2016-07-18T00:00:00Z",
+                                                                                        "sound": "TH",
+                                                                                        "theater":[
+                                                                                            {
+                                                                                                "id": 1,
+                                                                                                "time": "19:30",
+                                                                                                "normalSeat": {
+                                                                                                    "available": 30,
+                                                                                                    "price":300
+                                                                                            },
+                                                                                                "honeymoonSeat": {
+                                                                                                    "available": 10,
+                                                                                                    "price": 450
+                                                                                                },
+                                                                                                "pairSeat": {
+                                                                                                    "available": 5,
+                                                                                                    "price": 600
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "date": "2016-07-19T00:00:00Z",
+                                                                                        "sound": "ENG",
+                                                                                        "theater":[
+                                                                                            {
+                                                                                                "id": 1,
+                                                                                                "time": "22:00",
+                                                                                                "normalSeat": {
+                                                                                                    "available": 30,
+                                                                                                    "price":300
+                                                                                            },
+                                                                                                "honeymoonSeat": {
+                                                                                                    "available": 10,
+                                                                                                    "price": 450
+                                                                                                },
+                                                                                                "pairSeat": {
+                                                                                                    "available": 5,
+                                                                                                    "price": 600
+                                                                                                }
+                                                                                            }
+                                                                                        
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "date": "2016-07-20T00:00:00Z",
+                                                                                        "sound": "TH",
+                                                                                        "theater":[
+                                                                                            {
+                                                                                                "id": 1,
+                                                                                                "time": "19:40",
+                                                                                                "normalSeat": {
+                                                                                                    "available": 30,
+                                                                                                    "price":300
+                                                                                            },
+                                                                                                "honeymoonSeat": {
+                                                                                                    "available": 10,
+                                                                                                    "price": 450
+                                                                                                },
+                                                                                                "pairSeat": {
+                                                                                                    "available": 5,
+                                                                                                    "price": 600
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "date": "2016-07-21T00:00:00Z",
+                                                                                        "sound": "ENG",
+                                                                                        "theater":[
+                                                                                            {
+                                                                                                "id": 1,
+                                                                                                "time": "21:30",
+                                                                                                "normalSeat": {
+                                                                                                    "available": 30,
+                                                                                                    "price":300
+                                                                                            },
+                                                                                                "honeymoonSeat": {
+                                                                                                    "available": 10,
+                                                                                                    "price": 450
+                                                                                                },
+                                                                                                "pairSeat": {
+                                                                                                    "available": 5,
+                                                                                                    "price": 600
+                                                                                                }
+                                                                                            }
+                                                                                           
+                                                                                        ]
+                                                                                    }
+                                                                                   
+                                                                                        ]
+                                                                                            },
+                                                                                            {
+                                                                                                "id":11,
+                                                                                                "name": "The Lion King",
+                                                                                                "image": "lion.jpg",
+                                                                                                "description": "After the murder of his father, a young lion prince flees his kingdom only to learn the true meaning of responsibility and bravery.",
+                                                                                                "startDate":"2019-07-16T00:00:00Z",
+                                                                                                "endDate":"2019-08-02T00:00:00Z",
+                                                                                                "genre": " Animation",
+                                                                                                "Rate": "TBC",
+                                                                                                "timemovies": 120,
+                                                                                                "showingTime":[
+                                                                                                {
+                                                                                                "date": "2016-07-16T00:00:00Z",
+                                                                                                "sound": "ENG",
+                                                                                                "theater":[
+                                                                                                    {
+                                                                                                        "id": 1,
+                                                                                                        "time": "11:20",
+                                                                                                        "normalSeat": {
+                                                                                                            "available": 30,
+                                                                                                            "price":300
+                                                                                                    },
+                                                                                                        "honeymoonSeat": {
+                                                                                                            "available": 10,
+                                                                                                            "price": 450
+                                                                                                        },
+                                                                                                        "pairSeat": {
+                                                                                                            "available": 5,
+                                                                                                            "price": 600
+                                                                                                        }
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "id": 2,
+                                                                                                        "time": "14:00",
+                                                                                                        "normalSeat": {
+                                                                                                            "available": 30,
+                                                                                                            "price":300
+                                                                                                    },
+                                                                                                        "honeymoonSeat": {
+                                                                                                            "available": 10,
+                                                                                                            "price": 450
+                                                                                                        },
+                                                                                                        "pairSeat": {
+                                                                                                            "available": 5,
+                                                                                                            "price": 600
+                                                                                                        }
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "id": 3,
+                                                                                                        "time": "16:40",
+                                                                                                        "normalSeat": {
+                                                                                                            "available": 30,
+                                                                                                            "price":300
+                                                                                                    },
+                                                                                                        "honeymoonSeat": {
+                                                                                                            "available": 10,
+                                                                                                            "price": 450
+                                                                                                        },
+                                                                                                        "pairSeat": {
+                                                                                                            "available": 5,
+                                                                                                            "price": 600
+                                                                                                        }
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "id": 4,
+                                                                                                        "time": "19:20",
+                                                                                                        "normalSeat": {
+                                                                                                            "available": 30,
+                                                                                                            "price":300
+                                                                                                    },
+                                                                                                        "honeymoonSeat": {
+                                                                                                            "available": 10,
+                                                                                                            "price": 450
+                                                                                                        },
+                                                                                                        "pairSeat": {
+                                                                                                            "available": 5,
+                                                                                                            "price": 600
+                                                                                                        }
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "id": 5,
+                                                                                                        "time": "22:00",
+                                                                                                        "normalSeat": {
+                                                                                                            "available": 30,
+                                                                                                            "price":300
+                                                                                                    },
+                                                                                                        "honeymoonSeat": {
+                                                                                                            "available": 10,
+                                                                                                            "price": 450
+                                                                                                        },
+                                                                                                        "pairSeat": {
+                                                                                                            "available": 5,
+                                                                                                            "price": 600
+                                                                                                        }
+                                                                                                    }
+                                                                                                ]
+                                                                                            },
+                                                                                            {
+                                                                                                "date": "2016-07-17T00:00:00Z",
+                                                                                                "sound": "ENG",
+                                                                                                "theater":[
+                                                                                                    {
+                                                                                                        "id": 1,
+                                                                                                        "time": "11:40",
+                                                                                                        "normalSeat": {
+                                                                                                            "available": 30,
+                                                                                                            "price":300
+                                                                                                    },
+                                                                                                        "honeymoonSeat": {
+                                                                                                            "available": 10,
+                                                                                                            "price": 450
+                                                                                                        },
+                                                                                                        "pairSeat": {
+                                                                                                            "available": 5,
+                                                                                                            "price": 600
+                                                                                                        }
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "id": 2,
+                                                                                                        "time": "14:20",
+                                                                                                        "normalSeat": {
+                                                                                                            "available": 30,
+                                                                                                            "price":300
+                                                                                                    },
+                                                                                                        "honeymoonSeat": {
+                                                                                                            "available": 10,
+                                                                                                            "price": 450
+                                                                                                        },
+                                                                                                        "pairSeat": {
+                                                                                                            "available": 5,
+                                                                                                            "price": 600
+                                                                                                        }
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "id": 3,
+                                                                                                        "time": "17:00",
+                                                                                                        "normalSeat": {
+                                                                                                            "available": 30,
+                                                                                                            "price":300
+                                                                                                    },
+                                                                                                        "honeymoonSeat": {
+                                                                                                            "available": 10,
+                                                                                                            "price": 450
+                                                                                                        },
+                                                                                                        "pairSeat": {
+                                                                                                            "available": 5,
+                                                                                                            "price": 600
+                                                                                                        }
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "id": 4,
+                                                                                                        "time": "17:00",
+                                                                                                        "normalSeat": {
+                                                                                                            "available": 30,
+                                                                                                            "price":300
+                                                                                                    },
+                                                                                                        "honeymoonSeat": {
+                                                                                                            "available": 10,
+                                                                                                            "price": 450
+                                                                                                        },
+                                                                                                        "pairSeat": {
+                                                                                                            "available": 5,
+                                                                                                            "price": 600
+                                                                                                        }
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "id": 5,
+                                                                                                        "time": "22:20",
+                                                                                                        "normalSeat": {
+                                                                                                            "available": 30,
+                                                                                                            "price":300
+                                                                                                    },
+                                                                                                        "honeymoonSeat": {
+                                                                                                            "available": 10,
+                                                                                                            "price": 450
+                                                                                                        },
+                                                                                                        "pairSeat": {
+                                                                                                            "available": 5,
+                                                                                                            "price": 600
+                                                                                                        }
+                                                                                                    }
+                                                                                                   
+                                                                                                ]
+                                                                                            },
+                                                                                            {
+                                                                                                "date": "2016-07-18T00:00:00Z",
+                                                                                                "sound": "TH",
+                                                                                                "theater":[
+                                                                                                    {
+                                                                                                        "id": 1,
+                                                                                                        "time": "11:40",
+                                                                                                        "normalSeat": {
+                                                                                                            "available": 30,
+                                                                                                            "price":300
+                                                                                                    },
+                                                                                                        "honeymoonSeat": {
+                                                                                                            "available": 10,
+                                                                                                            "price": 450
+                                                                                                        },
+                                                                                                        "pairSeat": {
+                                                                                                            "available": 5,
+                                                                                                            "price": 600
+                                                                                                        }
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "id": 2,
+                                                                                                        "time": "14:20",
+                                                                                                        "normalSeat": {
+                                                                                                            "available": 30,
+                                                                                                            "price":300
+                                                                                                    },
+                                                                                                        "honeymoonSeat": {
+                                                                                                            "available": 10,
+                                                                                                            "price": 450
+                                                                                                        },
+                                                                                                        "pairSeat": {
+                                                                                                            "available": 5,
+                                                                                                            "price": 600
+                                                                                                        }
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "id": 3,
+                                                                                                        "time": "17:00",
+                                                                                                        "normalSeat": {
+                                                                                                            "available": 30,
+                                                                                                            "price":300
+                                                                                                    },
+                                                                                                        "honeymoonSeat": {
+                                                                                                            "available": 10,
+                                                                                                            "price": 450
+                                                                                                        },
+                                                                                                        "pairSeat": {
+                                                                                                            "available": 5,
+                                                                                                            "price": 600
+                                                                                                        }
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "id": 4,
+                                                                                                        "time": "17:00",
+                                                                                                        "normalSeat": {
+                                                                                                            "available": 30,
+                                                                                                            "price":300
+                                                                                                    },
+                                                                                                        "honeymoonSeat": {
+                                                                                                            "available": 10,
+                                                                                                            "price": 450
+                                                                                                        },
+                                                                                                        "pairSeat": {
+                                                                                                            "available": 5,
+                                                                                                            "price": 600
+                                                                                                        }
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "id": 5,
+                                                                                                        "time": "22:20",
+                                                                                                        "normalSeat": {
+                                                                                                            "available": 30,
+                                                                                                            "price":300
+                                                                                                    },
+                                                                                                        "honeymoonSeat": {
+                                                                                                            "available": 10,
+                                                                                                            "price": 450
+                                                                                                        },
+                                                                                                        "pairSeat": {
+                                                                                                            "available": 5,
+                                                                                                            "price": 600
+                                                                                                        }
+                                                                                                    }
+                                                                                                ]
+                                                                                            },
+                                                                                            {
+                                                                                                "date": "2016-07-19T00:00:00Z",
+                                                                                                "sound": "ENG",
+                                                                                                "theater":[
+                                                                                                    {
+                                                                                                        "id": 1,
+                                                                                                        "time": "11:20",
+                                                                                                        "normalSeat": {
+                                                                                                            "available": 30,
+                                                                                                            "price":300
+                                                                                                    },
+                                                                                                        "honeymoonSeat": {
+                                                                                                            "available": 10,
+                                                                                                            "price": 450
+                                                                                                        },
+                                                                                                        "pairSeat": {
+                                                                                                            "available": 5,
+                                                                                                            "price": 600
+                                                                                                        }
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "id": 2,
+                                                                                                        "time": "14:00",
+                                                                                                        "normalSeat": {
+                                                                                                            "available": 30,
+                                                                                                            "price":300
+                                                                                                    },
+                                                                                                        "honeymoonSeat": {
+                                                                                                            "available": 10,
+                                                                                                            "price": 450
+                                                                                                        },
+                                                                                                        "pairSeat": {
+                                                                                                            "available": 5,
+                                                                                                            "price": 600
+                                                                                                        }
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "id": 2,
+                                                                                                        "time": "16:00",
+                                                                                                        "normalSeat": {
+                                                                                                            "available": 30,
+                                                                                                            "price":300
+                                                                                                    },
+                                                                                                        "honeymoonSeat": {
+                                                                                                            "available": 10,
+                                                                                                            "price": 450
+                                                                                                        },
+                                                                                                        "pairSeat": {
+                                                                                                            "available": 5,
+                                                                                                            "price": 600
+                                                                                                        }
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "id": 3,
+                                                                                                        "time": "19:40",
+                                                                                                        "normalSeat": {
+                                                                                                            "available": 30,
+                                                                                                            "price":300
+                                                                                                    },
+                                                                                                        "honeymoonSeat": {
+                                                                                                            "available": 10,
+                                                                                                            "price": 450
+                                                                                                        },
+                                                                                                        "pairSeat": {
+                                                                                                            "available": 5,
+                                                                                                            "price": 600
+                                                                                                        }
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "id": 4,
+                                                                                                        "time": "22:20",
+                                                                                                        "normalSeat": {
+                                                                                                            "available": 30,
+                                                                                                            "price":300
+                                                                                                    },
+                                                                                                        "honeymoonSeat": {
+                                                                                                            "available": 10,
+                                                                                                            "price": 450
+                                                                                                        },
+                                                                                                        "pairSeat": {
+                                                                                                            "available": 5,
+                                                                                                            "price": 600
+                                                                                                        }
+                                                                                                    }
+                                                                                                
+                                                                                                ]
+                                                                                            },
+                                                                                            {
+                                                                                                "date": "2016-07-20T00:00:00Z",
+                                                                                                "sound": "TH",
+                                                                                                "theater":[
+                                                                                                    {
+                                                                                                        "id": 1,
+                                                                                                        "time": "11:20",
+                                                                                                        "normalSeat": {
+                                                                                                            "available": 30,
+                                                                                                            "price":300
+                                                                                                    },
+                                                                                                        "honeymoonSeat": {
+                                                                                                            "available": 10,
+                                                                                                            "price": 450
+                                                                                                        },
+                                                                                                        "pairSeat": {
+                                                                                                            "available": 5,
+                                                                                                            "price": 600
+                                                                                                        }
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "id": 2,
+                                                                                                        "time": "14:00",
+                                                                                                        "normalSeat": {
+                                                                                                            "available": 30,
+                                                                                                            "price":300
+                                                                                                    },
+                                                                                                        "honeymoonSeat": {
+                                                                                                            "available": 10,
+                                                                                                            "price": 450
+                                                                                                        },
+                                                                                                        "pairSeat": {
+                                                                                                            "available": 5,
+                                                                                                            "price": 600
+                                                                                                        }
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "id": 3,
+                                                                                                        "time": "16:40",
+                                                                                                        "normalSeat": {
+                                                                                                            "available": 30,
+                                                                                                            "price":300
+                                                                                                    },
+                                                                                                        "honeymoonSeat": {
+                                                                                                            "available": 10,
+                                                                                                            "price": 450
+                                                                                                        },
+                                                                                                        "pairSeat": {
+                                                                                                            "available": 5,
+                                                                                                            "price": 600
+                                                                                                        }
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "id": 4,
+                                                                                                        "time": "19:20",
+                                                                                                        "normalSeat": {
+                                                                                                            "available": 30,
+                                                                                                            "price":300
+                                                                                                    },
+                                                                                                        "honeymoonSeat": {
+                                                                                                            "available": 10,
+                                                                                                            "price": 450
+                                                                                                        },
+                                                                                                        "pairSeat": {
+                                                                                                            "available": 5,
+                                                                                                            "price": 600
+                                                                                                        }
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "id": 5,
+                                                                                                        "time": "22:00",
+                                                                                                        "normalSeat": {
+                                                                                                            "available": 30,
+                                                                                                            "price":300
+                                                                                                    },
+                                                                                                        "honeymoonSeat": {
+                                                                                                            "available": 10,
+                                                                                                            "price": 450
+                                                                                                        },
+                                                                                                        "pairSeat": {
+                                                                                                            "available": 5,
+                                                                                                            "price": 600
+                                                                                                        }
+                                                                                                    }
+                                                                                                ]
+                                                                                            },
+                                                                                            {
+                                                                                                "date": "2016-07-21T00:00:00Z",
+                                                                                                "sound": "ENG",
+                                                                                                "theater":[
+                                                                                                    {
+                                                                                                        "id": 1,
+                                                                                                        "time": "11:40",
+                                                                                                        "normalSeat": {
+                                                                                                            "available": 30,
+                                                                                                            "price":300
+                                                                                                    },
+                                                                                                        "honeymoonSeat": {
+                                                                                                            "available": 10,
+                                                                                                            "price": 450
+                                                                                                        },
+                                                                                                        "pairSeat": {
+                                                                                                            "available": 5,
+                                                                                                            "price": 600
+                                                                                                        }
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "id": 2,
+                                                                                                        "time": "14:20",
+                                                                                                        "normalSeat": {
+                                                                                                            "available": 30,
+                                                                                                            "price":300
+                                                                                                    },
+                                                                                                        "honeymoonSeat": {
+                                                                                                            "available": 10,
+                                                                                                            "price": 450
+                                                                                                        },
+                                                                                                        "pairSeat": {
+                                                                                                            "available": 5,
+                                                                                                            "price": 600
+                                                                                                        }
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "id": 3,
+                                                                                                        "time": "17:00",
+                                                                                                        "normalSeat": {
+                                                                                                            "available": 30,
+                                                                                                            "price":300
+                                                                                                    },
+                                                                                                        "honeymoonSeat": {
+                                                                                                            "available": 10,
+                                                                                                            "price": 450
+                                                                                                        },
+                                                                                                        "pairSeat": {
+                                                                                                            "available": 5,
+                                                                                                            "price": 600
+                                                                                                        }
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "id": 4,
+                                                                                                        "time": "17:00",
+                                                                                                        "normalSeat": {
+                                                                                                            "available": 30,
+                                                                                                            "price":300
+                                                                                                    },
+                                                                                                        "honeymoonSeat": {
+                                                                                                            "available": 10,
+                                                                                                            "price": 450
+                                                                                                        },
+                                                                                                        "pairSeat": {
+                                                                                                            "available": 5,
+                                                                                                            "price": 600
+                                                                                                        }
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "id": 5,
+                                                                                                        "time": "22:20",
+                                                                                                        "normalSeat": {
+                                                                                                            "available": 30,
+                                                                                                            "price":300
+                                                                                                    },
+                                                                                                        "honeymoonSeat": {
+                                                                                                            "available": 10,
+                                                                                                            "price": 450
+                                                                                                        },
+                                                                                                        "pairSeat": {
+                                                                                                            "available": 5,
+                                                                                                            "price": 600
+                                                                                                        }
+                                                                                                    }
+                                                                                                   
+                                                                                                ]
+                                                                                            }
+                                                                                           
+                                                                                                ]
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "id":12,
+                                                                                                        "name": "The Current War",
+                                                                                                                "image": "war.jpg",
+                                                                                                                "description": "The dramatic story of the cutthroat race between electricity titans Thomas Edison and George Westinghouse to determine whose electrical system would power the modern world.",
+                                                                                                                "startDate":"2019-08-07T00:00:00Z",
+                                                                                                                "endDate":"2019-09-07T00:00:00Z",
+                                                                                                                "genre": "Biography",
+                                                                                                                "Rate": "G",
+                                                                                                                "timemovies": 110,
+                                                                                                                "showingTime":[
+                                                                                                                    {
+                                                                                                                    "date": "2016-07-16T00:00:00Z",
+                                                                                                                    "sound": "ENG",
+                                                                                                                    "theater":[      
+                                                                                                                     {
+                                                                                                                    "date": "2016-07-18T00:00:00Z",
+                                                                                                                    "sound": "TH",
+                                                                                                                    "theater":[
+                                                                                                                        {
+                                                                                                                            "id": 1,
+                                                                                                                            "time": "19:30",
+                                                                                                                            "normalSeat": {
+                                                                                                                                "available": 30,
+                                                                                                                                "price":300
+                                                                                                                        },
+                                                                                                                            "honeymoonSeat": {
+                                                                                                                                "available": 10,
+                                                                                                                                "price": 450
+                                                                                                                            },
+                                                                                                                            "pairSeat": {
+                                                                                                                                "available": 5,
+                                                                                                                                "price": 600
+                                                                                                                            }
+                                                                                                                        }
+                                                                                                                    ]
+                                                                                                                }
+                                                                                                                ]
+                                                                                                                },
+                                                                                                                {
+                                                                                                                    "date": "2016-07-19T00:00:00Z",
+                                                                                                                    "sound": "ENG",
+                                                                                                                    "theater":[
+                                                                                                                        {
+                                                                                                                            "id": 1,
+                                                                                                                            "time": "22:00",
+                                                                                                                            "normalSeat": {
+                                                                                                                                "available": 30,
+                                                                                                                                "price":300
+                                                                                                                        },
+                                                                                                                            "honeymoonSeat": {
+                                                                                                                                "available": 10,
+                                                                                                                                "price": 450
+                                                                                                                            },
+                                                                                                                            "pairSeat": {
+                                                                                                                                "available": 5,
+                                                                                                                                "price": 600
+                                                                                                                            }
+                                                                                                                        }
+                                                                                                                    
+                                                                                                                    ]
+                                                                                                                },
+                                                                                                                {
+                                                                                                                    "date": "2016-07-20T00:00:00Z",
+                                                                                                                    "sound": "TH",
+                                                                                                                    "theater":[
+                                                                                                                        {
+                                                                                                                            "id": 1,
+                                                                                                                            "time": "19:40",
+                                                                                                                            "normalSeat": {
+                                                                                                                                "available": 30,
+                                                                                                                                "price":300
+                                                                                                                        },
+                                                                                                                            "honeymoonSeat": {
+                                                                                                                                "available": 10,
+                                                                                                                                "price": 450
+                                                                                                                            },
+                                                                                                                            "pairSeat": {
+                                                                                                                                "available": 5,
+                                                                                                                                "price": 600
+                                                                                                                            }
+                                                                                                                        }
+                                                                                                                    ]
+                                                                                                                },
+                                                                                                                {
+                                                                                                                    "date": "2016-07-21T00:00:00Z",
+                                                                                                                    "sound": "ENG",
+                                                                                                                    "theater":[
+                                                                                                                        {
+                                                                                                                            "id": 1,
+                                                                                                                            "time": "21:30",
+                                                                                                                            "normalSeat": {
+                                                                                                                                "available": 30,
+                                                                                                                                "price":300
+                                                                                                                        },
+                                                                                                                            "honeymoonSeat": {
+                                                                                                                                "available": 10,
+                                                                                                                                "price": 450
+                                                                                                                            },
+                                                                                                                            "pairSeat": {
+                                                                                                                                "available": 5,
+                                                                                                                                "price": 600
+                                                                                                                            }
+                                                                                                                        }
+                                                                                                                       
+                                                                                                                    ]
+                                                                                                                }
+                                                                                                               
+                                                                                                                    ]
+ 
+                                                                                                    },
+                                                                                                            {
+                                                                                                                "id":13,
+                                                                                                                "name": "Child's Play",
+                                                                                                                "image": "child.jpg",
+                                                                                                                "description": "A mother gives her son a toy doll for his birthday, unaware of its more sinister nature.",
+                                                                                                                "startDate":"2019-07-25T00:00:00Z",
+                                                                                                                "endDate":"2019-08-25T00:00:00Z",
+                                                                                                                "genre": " Horror",
+                                                                                                                "Rate": "18",
+                                                                                                                "timemovies": 90
+                                                                                                
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "id":14,
+                                                                                                                "name": "A Dog's Journey",
+                                                                                                                "image": "dog.jpg",
+                                                                                                                "description": "A dog finds the meaning of his own existence through the lives of the humans he meets.",
+                                                                                                                "startDate":"2019-07-25T00:00:00Z",
+                                                                                                                "endDate":"2019-08-25T00:00:00Z",
+                                                                                                                "genre": "Adventure",
+                                                                                                                "Rate": "TBC",
+                                                                                                                "timemovies": 110
+                                                                                                
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "id":15,
+                                                                                                                "name": "Fast & Furious : Hobbs & Shaw",
+                                                                                                                "image": "FF.jpg",
+                                                                                                                "description": "A spinoff of The Fate of the Furious, focusing on Johnson's US Diplomatic Security Agent Luke Hobbs forming an unlikely alliance with Statham's Deckard Shaw.",
+                                                                                                                "startDate":"2019-08-01T00:00:00Z",
+                                                                                                                "endDate":"2019-09-07T00:00:00Z",
+                                                                                                                "genre": "Action",
+                                                                                                                "Rate": "TBC",
+                                                                                                                "timemovies": 140
+                                                                                                
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "id":16,
+                                                                                                                "name": "Scary Stories To Tell In The Dark",
+                                                                                                                "image": "SS.jpg",
+                                                                                                                "description": "A group of teens face their fears in order to save their lives.",
+                                                                                                                "startDate":"2019-08-08T00:00:00Z",
+                                                                                                                "endDate":"2019-09-08T00:00:00Z",
+                                                                                                                "genre": "Horror",
+                                                                                                                "Rate": "TBC",
+                                                                                                                "timemovies": 140
+                                                                                                
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "id":17,
+                                                                                                                "name": "Detective Conan the Movie 23",
+                                                                                                                "image": "conan.jpg",
+                                                                                                                "description": "The world's greatest blue sapphire, the blue lapis fist, said to have sunk in a pirate ship in the late 19th century, on the coasts of Singapore. A local millionaire plots to retrieve it, and when it's exhibited in an exhibition at the Singaporean Marina Sands hotel, a murder takes place.",
+                                                                                                                "startDate":"2019-08-08T00:00:00Z",
+                                                                                                                "endDate":"2019-09-08T00:00:00Z",
+                                                                                                                "genre": "Animation",
+                                                                                                                "Rate": "TBC",
+                                                                                                                "timemovies": 110
+                                                                                                
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "id":18,
+                                                                                                                "name": "Trouble",
+                                                                                                                "image": "Trouble.jpg",
+                                                                                                                "description": "A pampered dog named Trouble must learn to live in the real world, while trying to escape from his former owner's greedy children.",
+                                                                                                                "startDate":"2019-08-08T00:00:00Z",
+                                                                                                                "endDate":"2019-09-08T00:00:00Z",
+                                                                                                                "genre": "Animation",
+                                                                                                                "Rate": "TBC",
+                                                                                                                "timemovies": 110
+                                                                                                
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "id":19,
+                                                                                                                "name": "The Art Of Racing In The Rain",
+                                                                                                                "image": "theart.jpg",
+                                                                                                                "description": "A dog named Enzo recalls the life lessons he has learned from his race car driving owner, Denny.",
+                                                                                                                "startDate":"2019-08-08T00:00:00Z",
+                                                                                                                "endDate":"2019-09-08T00:00:00Z",
+                                                                                                                "genre": "Comedy",
+                                                                                                                "Rate": "TBC",
+                                                                                                                "timemovies": 110
+                                                                                                
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "id":20,
+                                                                                                                "name": "Angel Has Fallen",
+                                                                                                                "image": "angel.jpg",
+                                                                                                                "description": "Secret Service Agent Mike Banning is framed for the attempted assassination of the President and must evade his own agency and the FBI as he tries to uncover the real threat.",
+                                                                                                                "startDate":"2019-08-22T00:00:00Z",
+                                                                                                                "endDate":"2019-09-22T00:00:00Z",
+                                                                                                                "genre": "Action",
+                                                                                                                "Rate": "TBC",
+                                                                                                                "timemovies": 110
+                                                                                                
+                                                                                                            }
+                                                                                                        
+
+                                                                                                        
+                                                                                                            
+        ]
+                    
