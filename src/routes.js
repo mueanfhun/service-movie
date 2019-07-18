@@ -14,6 +14,6 @@ router.get('/healthz', (req, res) => {
 router.put('/addmovie', increaseController);
 router.get('/movies', moviesController);
 router.get('/detail', moviesByID);
-router.get('/reserver', seatController);
+router.post('/reserver', seatController);
 
 export default router;

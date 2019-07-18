@@ -40,7 +40,10 @@ const seatController = async (req, res) => {
 
   let totalChange;
 
+  console.log(payment);
+
   await movieModel.findOne({ id }, (err, value) => {
+    console.log('id', id);
     if (err) {
       res.status(400);
       res.send(err);
